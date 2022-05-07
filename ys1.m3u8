@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1770489,RESOLUTION=1696x720,CODECS="avc1.640020,mp4a.40.2"
+https://cdngate.moly.cloud/597/index/xqx2oahyibokjiqbtgdsppsdujxznzuwbvqhwufleqaoou7qytw4or5n5bnq/index-v1-a1.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=802326,RESOLUTION=1132x480,CODECS="avc1.4d401f,mp4a.40.2"
+https://cdngate.moly.cloud/597/index/xqx2oahyibokjiqbtgdsppsdujxznzuwbvqhwuflezsoou7qytw25uay54kq/index-v1-a1.m3u8
